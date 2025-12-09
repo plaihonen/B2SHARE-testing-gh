@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: L
+    given-names: P
+    orcid: 
+title: "Testing github integration"
+version: 0.0.9
+identifiers:
+  - type: doi
+    value: 10.1201/b14935-8
+date-released: 2028-12-09
