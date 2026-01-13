@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: L
     given-names: P
-    orcid: 
+    orcid: not-empty-any-more
 title: "Testing github integration"
 version: 0.0.9
 identifiers:
